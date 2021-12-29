@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Daniel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,8 +11,13 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+<<<<<<< HEAD
 	},
 	"author": "Daniel",
 	"description":"A project that does something awesome"
+=======
+	}
+	
+>>>>>>> c25a87085bd984d8b62b4a19164aadcb3d2840bf
 	
 }
